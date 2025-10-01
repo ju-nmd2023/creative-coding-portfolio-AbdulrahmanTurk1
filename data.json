@@ -1,46 +1,46 @@
 [
   {
     "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "name": "orbiting bloom",
+    "description": "Four moons orbit a hidden center. Differing rotational speeds create a mesmerizing, ethereal trace of blue light.."
   },
 
    {
     "file": "experiments/schotter.js",
     "name": "Gravel (Schotter)",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "description": "Order slowly dissolves into chaos. The distortion increases exponentially from top to bottom, showing algorithmic entropy."
   }
   ,
   {
     "file": "experiments/Schotter-color.js",
-    "name": "Name",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "name": "Chroma Entropy (Schotter)",
+    "description": "This piece illustrates algorithmic decay where random color and exponential distortion dissolve geometric order into a vibrant chaos.."
   },
   {
     "file": "experiments/Schotter-loops.js",
-    "name": "Name",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "name": "Chromatic Shiver (Schotter)",
+    "description": "Algorithmic chaos flickers uncontrollably as randomness resets sixty times every second, dissolving geometric form."
   },
   {
     "file": "experiments/Flow Field.js",
-    "name": "Name",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "name": "Subliminal Current",
+    "description": "Invisible Perlin noise generates an evolving vector field. Thousands of particles trace the subtle, ethereal currents, visualizing digital wind."
   },
   {
     "file": "experiments/Flow_field_color.js",
-    "name": "Name",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "name": "Spectrum Flow",
+    "description": "Perlin noise generates an organic vector field. Particle direction controls hue, creating a slowly swirling and evolving spectrum.."
   }
 ,
   {
     "file": "experiments/Flow_red_field.js",
-    "name": "Name",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "name": "NaVectorial Flow Mapme",
+    "description": "Perlin noise generates a vector grid. Particles track this moving field, visualizing digital energy through structure and motion."
   },
    {
     "file": "experiments/tune.js",
-    "name": "Piano Follow",
-    "description": "added sound in artwork with tone.js and made change chords when mouse is clicked."
+    "name": "The Swarm Conductor",
+    "description": "Sparkling stardust trails behind the pointer. Each touch produces a deep, sharp chord, creating a terrifying echo as if you were unaware of space.."
   }
 
 
