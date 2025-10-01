@@ -12,7 +12,7 @@
   }
   ,
   {
-    "file": "experiments/Schotter-color.js",
+    "file": "experiments/schotter-color.js",
     "name": "Chroma Entropy (Schotter)",
     "description": "This piece illustrates algorithmic decay where random color and exponential distortion dissolve geometric order into a vibrant chaos.."
   },
