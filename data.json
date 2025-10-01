@@ -3,5 +3,47 @@
     "file": "experiments/example.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+
+   {
+    "file": "experiments/schotter.js",
+    "name": "Gravel (Schotter)",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   }
+  ,
+  {
+    "file": "experiments/Schotter-loop.js",
+    "name": "Name",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+  {
+    "file": "experiments/Schotter-loops.js",
+    "name": "Name",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+  {
+    "file": "experiments/Flow Field.js",
+    "name": "Name",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+  {
+    "file": "experiments/Flow_field_color.js",
+    "name": "Name",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  }
+,
+  {
+    "file": "experiments/Flow_red_field.js",
+    "name": "Name",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+   {
+    "file": "experiments/tune.js",
+    "name": "Piano Follow",
+    "description": "added sound in artwork with tone.js and made change chords when mouse is clicked."
+  }
+
+
+
+
 ]
