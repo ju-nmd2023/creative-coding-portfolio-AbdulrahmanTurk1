@@ -1,16 +1,25 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "orbiting bloom",
-    "description": "Four moons orbit a hidden center. Differing rotational speeds create a mesmerizing, ethereal trace of blue light.."
-  },
-
-   {
     "file": "experiments/schotter.js",
     "name": "Gravel (Schotter)",
     "description": "Order slowly dissolves into chaos. The distortion increases exponentially from top to bottom, showing algorithmic entropy."
   }
   ,
+
+  {
+    "file": "experiments/circlemove.js",
+    "name": "Circle Grow Lines",
+    "description": "Here we can see rectangles form a circle, while they grow and shrink in size."
+  }
+  ,
+
+    {
+    "file": "experiments/circlestar.js",
+    "name": "Circle Star Lines",
+    "description": "Here we can see rectangles form a circle, while they grow and shrink in size and blink like stars on the sky."
+  }
+  ,
+
   {
     "file": "experiments/schotter-color.js",
     "name": "Chroma Entropy (Schotter)",
