@@ -5,6 +5,12 @@
     "description": "Order slowly dissolves into chaos. The distortion increases exponentially from top to bottom, showing algorithmic entropy."
   }
   ,
+   {
+    "file": "experiments/circle.js",
+    "name": "circles",
+    "description": "Order slowly dissolves into chaos. The distortion increases exponentially from top to bottom, showing algorithmic entropy."
+  }
+  ,
 
   {
     "file": "experiments/circlemove.js",

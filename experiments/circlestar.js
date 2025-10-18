@@ -7,18 +7,16 @@ function setup() {
   createCanvas(600, 600);
   noStroke();
   
-  // Initialize horizontal rectangles
   for (let i = 0; i < totalRects / 2; i++) {
     horizontalRects.push({
       x: random(-circleSize, circleSize),
       y: random(-circleSize, circleSize),
       w: random(3, 10),
       h: random(5, 50),
-      visible: true // starts visible
+      visible: true 
     });
   }
   
-  // Initialize vertical rectangles
   for (let i = 0; i < totalRects / 2; i++) {
     verticalRects.push({
       x: random(-circleSize, circleSize),
